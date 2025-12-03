@@ -1,0 +1,46 @@
+[
+	{
+		"name": "Helldiver",
+		"unitType": "Gunpowder",
+		"uniqueTo": "Super Earth",
+		"replaces": "Paratrooper",
+		"movement": 2,
+		"strength": 75,
+		"cost": 375,
+		"requiredTech": "Radar",
+		"promotions": ["Mobility"],
+		"uniques": [
+		"May Paradrop to [Land] tiles up to [50] tiles away <in [{Friendly} {Land}] tiles> <when adjacent to a [Super Destroyer] unit>",
+		"May Paradrop to [Land] tiles up to [10] tiles away <in [{Friendly} {Land}] tiles>", 
+		"No movement cost to pillage", 
+		"Never appears as a Barbarian unit"],
+		"attackSound": "shot"
+	},
+	
+	{
+		"name": "Super Destroyer",
+		"unitType": "Helicopter",
+		"uniqueTo": "Super Earth",
+		"movement": 4,
+		"strength": 120,
+		"rangedStrength": 120,
+		"range": 3,
+		"cost": 800,
+		"requiredTech": "Nuclear Fusion",
+		"uniques": [
+			"Can pass through impassable tiles",
+            "May travel on Water tiles without embarking",
+			"All tiles cost 1 movement",
+			"Ignores Zone of Control",
+			"No defensive terrain bonus",
+			"Can see over obstacles",
+			"Ranged attacks may be performed over obstacles",
+			"[+4] Sight",
+			"[+33]% Strength bonus for [Helldiver] units within [2] tiles",
+			"Can carry [2] [Air] units",
+			"Can carry [2] [Missile] units",
+			"Limited to [1] per Civilization",
+			"Never appears as a Barbarian unit"],
+		"attackSound": "bombing"
+	}
+]

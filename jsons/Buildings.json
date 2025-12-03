@@ -1,0 +1,26 @@
+[
+	{
+		"name": "One True Flag",
+		"replaces": "Monument",
+		"uniqueTo": "Super Earth",
+		"cost": 40,
+		"maintenance": 1,
+		"culture": 3,
+		"faith": 1,
+		"uniques": ["Destroyed when the city is captured"],
+		"requires": "Agriculture"
+	},
+	
+	{
+		"name": "Liberty Bell",
+		"replaces": "Opera House",
+		"uniqueTo": "Super Earth",
+		"cost": 200,
+		"maintenance": 0,
+		"culture": 4,
+		"happiness": 2,
+		"uniques": ["Destroyed when the city is captured"],
+		"requires": "Acoustics"
+		"requiredBuilding": "Amphitheater"
+    }
+]

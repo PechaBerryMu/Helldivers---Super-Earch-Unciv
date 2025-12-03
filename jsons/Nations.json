@@ -1,0 +1,36 @@
+[
+	{
+		"name": "Super Earth",
+		"leaderName": "President",
+		"adjective": ["Liberated"],
+		"preferredVictoryType": "Diplomatic",
+		"favoredReligion": "Managed Democracy",
+
+		"startIntroPart1": "Freedom's Greetings, protector and propagator of Managed Democracy. Your people have fought hard for their freedom and to grant it to all in the galaxy.  Another world calls for liberation.  Will you answer the call?",
+		"startIntroPart2": "Oh leader chosen by all, will you once again take the lead and guide your people through the path Lady Liberty has lit? Will you create a new foothold on the long climb to liberty? Can you build a civilization that will stand the test of time?",
+		
+		"declaringWar": "Your tyranical aspirations will not be tolerated!",
+		"attacked": "We always knew there were disidents, but we hoped you'd see reason.",
+		"defeated": "You may have scattered us, but Managed Democracy still lives on our breath!",
+		"denounced": "I'll be sure to pass on your thoughts to the local Democracy Officer."
+		"introduction": "Freedom's Greetings, you bear witness to the bastion of democracy!",
+		
+		"neutralHello": "Greetings.",
+		"hateHello": "What business do you have with us?",
+		"tradeRequest": "Will you consider this offer?",
+		"declaringFriendship": "Come, you have proven yourself a friend to Lady Liberty!"
+		
+		"outerColor": [64,99,155],
+		"innerColor": [255,236,66],
+		"uniqueName": "Managed Democracy",
+		"uniques": [
+		"Earn [100]% of killed [Military] unit's [Strength] as [Golden Age points]",
+		"[+50]% Golden Age length",
+		"[+50]% Natural religion spread [in all cities] <during a Golden Age>"],
+		
+		"cities": ["Prosperity City","York Supreme","Eagleopolis","Remembrance","Equality-On-Sea","Port Mercy","Administrative Center 02","Freedom Eternal","Diver's Rest","Approval City",
+			"Lifeblood","Malmberget","New Aspiration City","Serenity Summit","Grafsead","Padosan","New Alexandria","Free Trade","Shed","New Storouse",
+			"Greater Storouse","People's Hand","Light of Liberty","Steel Resolve","New Tokyo","Prominence","Llanfairpwllgwyngyllgogerychwyrndrobwllllantysiliogogogoch II","Freecrest","Nuova Roma",
+			"New Eagle"]			
+	}
+]
