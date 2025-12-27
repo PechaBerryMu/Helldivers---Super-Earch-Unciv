@@ -32,11 +32,32 @@ ReligionIcons/Managed Democracy
   orig: 94, 98
   offset: 0, 0
   index: -1
+ReligionPortraits/Managed Democracy
+  rotate: false
+  xy: 1152, 106
+  size: 94, 98
+  orig: 94, 98
+  offset: 0, 0
+  index: -1
+TileSets/AbsoluteUnits/Units/Helldiver
+  rotate: false
+  xy: 1044, 40
+  size: 64, 56
+  orig: 64, 56
+  offset: 0, 0
+  index: -1
 TileSets/HexaRealm/Units/Helldiver
   rotate: false
   xy: 1044, 40
   size: 64, 56
   orig: 64, 56
+  offset: 0, 0
+  index: -1
+TileSets/AbsoluteUnits/Units/Super Destroyer
+  rotate: false
+  xy: 628, 4
+  size: 200, 200
+  orig: 200, 200
   offset: 0, 0
   index: -1
 TileSets/HexaRealm/Units/Super Destroyer
